@@ -11,8 +11,9 @@ It loads departments and projects, and allows the user to search for employees b
 
 ## Team Members
 - Sabin Chalise
-- [Team Member 2]
-- [Team Member 3]
+- Sumnima Rai 
+- Avery Bailey
+- Poshak Pathak
 
 ## Tools Used
 - Java 17+
